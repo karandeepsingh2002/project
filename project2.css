@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Sevillana&family=Tangerine:wght@400;700&display=swap");
+
+/* body{
+    text-align: center;
+} */
+
+
+#main {
+    /* height: 400px; */
+    width: 500px;
+    border: 15px solid ;
+    padding: 50px;
+    margin: 50px;
+    max-width: 600px;
+    border-radius: 50px;
+    box-shadow: 30px 20px 20px red;
+    background-color: rgb(203, 162, 73);
+    
+}
+
+#image{
+    text-align: center;
+}
+#para1{
+    text-align: center;
+}
+#quote{
+    text-align: center;
+}
